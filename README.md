@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archita-shankar&label=Profile%20views&color=0e75b6&style=flat" alt="archita-shankar" /> </p>
 
+<p><img align="right" src="https://github.com/Archita-Shankar/Archita-Shankar/assets/121395581/f8bc6f5e-9823-461f-b708-b1dfbd7658b9" alt="archita-shankar" /></p>
+
 <p align="left"> <a href="https://twitter.com/shankar_archita" target="blank"><img src="https://img.shields.io/twitter/follow/shankar_archita?logo=twitter&style=for-the-badge" alt="shankar_archita" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Web Development**
 
 - 📫 How to reach me **architashankar.tech@gmail.com**
-<p><img align="right" src="https://github.com/Archita-Shankar/Archita-Shankar/assets/121395581/f8bc6f5e-9823-461f-b708-b1dfbd7658b9" alt="archita-shankar" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
