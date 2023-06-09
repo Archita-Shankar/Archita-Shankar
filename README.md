@@ -24,7 +24,9 @@
 <br>
 <br>
 <br>
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=archita-shankar&show_icons=true&locale=en" alt="archita-shankar" /></p>
+<br>
 <br>
 <br>
 <br>
