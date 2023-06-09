@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Machine Learning and Web Development**
 
 - 📫 How to reach me **architashankar.tech@gmail.com**
-<p><img align="right" src="https://github.com/Archita-Shankar/Archita-Shankar/assets/121395581/7934757b-423d-486b-a849-496929b0aacd" alt="archita-shankar" /></p>
+<p><img align="right" src="https://github.com/Archita-Shankar/Archita-Shankar/assets/121395581/f8bc6f5e-9823-461f-b708-b1dfbd7658b9" alt="archita-shankar" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
