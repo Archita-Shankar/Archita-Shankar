@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archita Shankar</h1>
-<h3 align="center">Passionate computer science student, eager to innovate, learn, and contribute to the world of technology through code.</h3>
+
+![Readme gif](https://github.com/Archita-Shankar/My-Contents/blob/main/Readme%20gif.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archita-shankar&label=Profile%20views&color=0e75b6&style=flat" alt="archita-shankar" /> </p>
 
